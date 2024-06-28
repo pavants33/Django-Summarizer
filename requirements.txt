@@ -1,0 +1,6 @@
+django
+spacy
+bert-summarizer
+easyocr
+gTTS
+qrcode
